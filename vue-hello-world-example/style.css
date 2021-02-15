@@ -1,0 +1,23 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background: #FAF5EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper {
+    max-width: 1000px;
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    color: #692D55;
+}
+
+h2 {
+    align-self: flex-end;
+    margin-right: 3rem;
+}
