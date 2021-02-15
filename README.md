@@ -2,7 +2,13 @@
 
 ## Övningar
 
+Statisk todo-app: https://gist.github.com/zocom-christoffer-wallenberg/74978580b5e73db5c8d1bbc03c406034
+
 ## Artiklar
+
+Vue dokumentation: https://vuejs.org/v2/guide/
+
+Vue Style Guide: https://vuejs.org/v2/style-guide/
 
 ## Videor
 
